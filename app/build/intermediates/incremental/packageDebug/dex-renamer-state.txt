@@ -1,0 +1,4 @@
+#Wed Apr 11 17:18:08 CST 2018
+base.0=/Users/qishoudong/Documents/new_project/git_hub/bluesdesign/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
+renamed.0=classes.dex
+file.0=/Users/qishoudong/Documents/new_project/git_hub/bluesdesign/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex
